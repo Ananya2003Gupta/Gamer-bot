@@ -1,5 +1,5 @@
 # Gamer-bot
-Cool bot to play rock, paper, scissor with ;)
+Cool Telegram bot to play rock, paper, scissor with ;)
 
 Prerequisites:
 To run the project successfully, you need to install the python-telegram-bot using the command
