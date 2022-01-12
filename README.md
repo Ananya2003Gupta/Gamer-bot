@@ -3,7 +3,7 @@ Cool Telegram bot to play rock, paper, scissor with ;)
 
 Prerequisites:
 To run the project successfully, you need to install the python-telegram-bot using the command
-pip install python-telegram-bot
+'pip install python-telegram-bot'
 As this project uses telegram.ext package from this library.
 Not doing so may result in error:(
 
