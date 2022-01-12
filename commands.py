@@ -13,6 +13,7 @@ def responses(input_text):
     """
   l=['rock','paper','scissor']
   bot_chosen= l[random.randint(0,2)]
+  print(bot_chosen)
   if user_message in ("rock","paper","scissor"):
     if user_message==bot_chosen:
       return "It's a tie"
