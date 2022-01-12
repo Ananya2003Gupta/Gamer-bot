@@ -13,27 +13,27 @@ def responses(input_text):
     """
   l=['rock','paper','scissor']
   bot_chosen= l[random.randint(0,2)]
+  res="You win"
   if user_message in ("rock","paper","scissor"):
     if user_message==bot_chosen:
-      return "It's a tie"
+      res="It's a tie"
 
     elif user_message == "scissor":
       if bot_chosen=="rock":
-        return "You Lost"
-      return "You win"
+        res="You Lost"
 
     elif user_message == "rock":
       if bot_chosen=="paper":
-        return "You Lost"
-      return "You win"
+        res="You Lost"
 
     else:
       if bot_chosen=="scissor":
-        return "You Lost"
-      return "You win"
-
+        res="You Lost"
+        
+    return "{}\n{}".format(bot_chosen,res)
   else:
     return "You gave wrong input :( Try again"
+ 
       
 
   
