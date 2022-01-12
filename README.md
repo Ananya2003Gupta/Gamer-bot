@@ -7,14 +7,12 @@ To run the project successfully, you need to install the python-telegram-bot lib
 
 'pip install python-telegram-bot'
 
-(Execute this command in your command prompt)
+(Execute this command in your command prompt/command line)
 
 As this project uses telegram.ext package from this library.
-
 Not doing so may result in error:(
 
 The project has two files main.py and commands.py
-
 Keep both the files in the same directory.
 
 You just need to follow the prerequisites and use the main.py and commands.py(keep the files name same) to run your Gamer Bot.
