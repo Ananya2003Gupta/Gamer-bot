@@ -5,7 +5,7 @@ Commands:
 
 /start : To start the bot
 
-/help  : To get the help in commands for the bot 
+/help  : To get help regarding the commands for the bot 
 
 hey,hello,hi or sup  : Salutations to say hi to bot
 
@@ -16,15 +16,15 @@ In this program you have to enter the api key of your telegram bot to make it ru
 ## Prerequisites:
 1. To run the project successfully, you need to install the python-telegram-bot library using the command
 
-  'pip install python-telegram-bot'
+    'pip install python-telegram-bot'
 
-  (Execute this command in your command prompt/command line)
+    (Execute this command in your command prompt/command line)
 
-  As this project uses telegram.ext package from this library.
-  Not doing so may result in error :(
+    As this project uses telegram.ext package from this library.
+    Not doing so may result in error :(
 
 2. The project has two files main.py and commands.py.
-  Keep both the files in the same directory.
+    Keep both the files in the same directory.
 
 ## At Last
 You just need to follow the prerequisites and use the main.py and commands.py(keep the files name same) to run your own Gamer Bot.
