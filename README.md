@@ -24,7 +24,7 @@ In this program you have to enter the api key of your telegram bot to make it ru
     Not doing so may result in error :(
 
 2. The project has two files main.py and commands.py.
-    Keep both the files in the same directory.
+    Keep both the files in the same directory with their original names respectively.
 
 ## At Last
 You just need to follow the prerequisites and use the main.py and commands.py(keep the files name same) to run your own Gamer Bot.
