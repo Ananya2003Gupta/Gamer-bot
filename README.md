@@ -5,7 +5,7 @@ Commands:
 
 /start : To start the bot
 
-/help  : To Handle the bot
+/help  : To get the help in commands for the bot 
 
 hey,hello,hi or sup  : Salutations to say hi to bot
 
